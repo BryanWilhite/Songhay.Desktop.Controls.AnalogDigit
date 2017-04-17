@@ -1,0 +1,11 @@
+E:\~shares\sourceRoot\Git\Songhay.Desktop.Controls.AnalogDigit\Songhay.Desktop.Controls.AnalogDigit\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\~shares\sourceRoot\Git\Songhay.Desktop.Controls.AnalogDigit\Songhay.Desktop.Controls.AnalogDigit\obj\Debug\Songhay.Desktop.Controls.AnalogDigit_MarkupCompile.cache
+E:\~shares\sourceRoot\Git\Songhay.Desktop.Controls.AnalogDigit\Songhay.Desktop.Controls.AnalogDigit\obj\Debug\Songhay.Desktop.Controls.AnalogDigit_MarkupCompile.lref
+E:\~shares\sourceRoot\Git\Songhay.Desktop.Controls.AnalogDigit\Songhay.Desktop.Controls.AnalogDigit\bin\Debug\Songhay.Desktop.Controls.AnalogDigit.dll
+E:\~shares\sourceRoot\Git\Songhay.Desktop.Controls.AnalogDigit\Songhay.Desktop.Controls.AnalogDigit\bin\Debug\Songhay.Desktop.Controls.AnalogDigit.pdb
+E:\~shares\sourceRoot\Git\Songhay.Desktop.Controls.AnalogDigit\Songhay.Desktop.Controls.AnalogDigit\obj\Debug\Themes\Generic.baml
+E:\~shares\sourceRoot\Git\Songhay.Desktop.Controls.AnalogDigit\Songhay.Desktop.Controls.AnalogDigit\obj\Debug\Songhay.Desktop.Controls.AnalogDigit.g.resources
+E:\~shares\sourceRoot\Git\Songhay.Desktop.Controls.AnalogDigit\Songhay.Desktop.Controls.AnalogDigit\obj\Debug\Songhay.Desktop.Controls.Properties.Resources.resources
+E:\~shares\sourceRoot\Git\Songhay.Desktop.Controls.AnalogDigit\Songhay.Desktop.Controls.AnalogDigit\obj\Debug\Songhay.Desktop.Controls.AnalogDigit.csproj.GenerateResource.Cache
+E:\~shares\sourceRoot\Git\Songhay.Desktop.Controls.AnalogDigit\Songhay.Desktop.Controls.AnalogDigit\obj\Debug\Songhay.Desktop.Controls.AnalogDigit.dll
+E:\~shares\sourceRoot\Git\Songhay.Desktop.Controls.AnalogDigit\Songhay.Desktop.Controls.AnalogDigit\obj\Debug\Songhay.Desktop.Controls.AnalogDigit.pdb
